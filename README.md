@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Riyaz Qureshi
 
 
-- 🔭 I’m currently student of   
+- 🔭 I’m currently student of second year in  
 BCA (**Bachelors of Computer Application**) 
 - 🌱 I’m currently learning  about Mern Stack & React Native development
 - 👯 I’m looking to collaborate on open source projects
