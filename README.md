@@ -6,8 +6,10 @@ BCA (**Bachelors of Computer Application**)
 - 🌱 I’m currently learning  about Mern Stack & React Native development
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with designs
-- 💬 Ask me about  React.js development
+- 💬 Ask me about  React.js development and any tech related stuff.
 - 📫 How to reach me Raise a issue or see my social handles below
+- 😄 Pronouns: I, you, he, she, it, they, this.
+- ⚡ Fun fact: I spend almost 8 hours working everyday.
 
 
 <h3 align="left">Connect with me:</h3>
