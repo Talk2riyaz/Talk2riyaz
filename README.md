@@ -9,7 +9,7 @@ BCA (**Bachelors of Computer Application**)
 - 💬 Ask me about  React.js development and any tech related stuff.
 - 📫 How to reach me Raise a issue or see my social handles below
 - 😄 Pronouns: I, you, he, she, it, they, this.
-- ⚡ Fun fact: I spend almost 7-8 hours working everyday.
+- ⚡ Fun fact: I spend almost 7-8 hours Learning everyday.
 
 
 <h3 align="left">Connect with me:</h3>
