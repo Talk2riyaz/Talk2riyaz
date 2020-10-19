@@ -12,8 +12,8 @@ BCA (**Bachelors of Computer Application**)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/talk2riyaz.github.io/riyaz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="talk2riyaz.github.io/riyaz/" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/riyaz-qureshi-5292931a7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/riyaz-qureshi-5292931a7/" height="30" width="40" /></a>
+<a href="https://talk2riyaz.github.io/Riyaz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="talk2riyaz.github.io/riyaz/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/riyaz-qureshi-5292931a7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/riyaz-qureshi-5292931a7/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
