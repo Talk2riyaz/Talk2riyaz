@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently student of second year in  
 BCA (**Bachelors of Computer Application**) 
-- 🌱 I’m currently learning  about Mern Stack & React Native development
+- 🌱 I’m currently learning Node JS , MongoDB & React Native development
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with designs
 - 💬 Ask me about  React.js development and any tech related stuff.
