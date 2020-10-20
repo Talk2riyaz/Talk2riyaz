@@ -3,12 +3,19 @@
 
 - 🔭 I’m currently student of second year in  
 BCA (**Bachelors of Computer Application**) 
-- 🌱 I’m currently learning Node JS , MongoDB & React Native development
-- 👯 I’m looking to collaborate on open source projects
+
+- 🌱 I’m currently learning Node JS , MongoDB & React Native development.
+
+- 👯 I’m looking to collaborate on open source projects.
+
 - 💬 Ask me about  React.js development and any tech related stuff.
-- 📫 How to reach me Raise a issue or see my social handles below
+
+- 📫 How to reach me Raise a issue or see my social handles below.
+
 - 😄 Pronouns: I, you, he, she, it, they, this.
-- ⚡ Fun fact: I spend almost 7-8 hours Learning everyday.
+
+- ⚡ Fun fact: I spend almost 7-8 hours Learning everyday
+
 
 
 <h3 align="left">Connect with me:</h3>
