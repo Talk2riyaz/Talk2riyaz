@@ -5,7 +5,6 @@
 BCA (**Bachelors of Computer Application**) 
 - 🌱 I’m currently learning Node JS , MongoDB & React Native development
 - 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with designs
 - 💬 Ask me about  React.js development and any tech related stuff.
 - 📫 How to reach me Raise a issue or see my social handles below
 - 😄 Pronouns: I, you, he, she, it, they, this.
