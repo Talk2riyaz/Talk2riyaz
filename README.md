@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Riyaz Qureshi
 
 
-- 🔭 I’m currently student of second year in  
+- 🔭 I’m currently student  
 BCA (**Bachelors of Computer Application**) 
 
 - 🌱 I’m currently learning Node JS , MongoDB & React Native development.
