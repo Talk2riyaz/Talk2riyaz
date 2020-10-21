@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Riyaz Qureshi
+### Hi guys 👋 I'm Riyaz Qureshi
 
 
 - 🔭 I’m currently student BCA (**Bachelors of Computer Application**) 
