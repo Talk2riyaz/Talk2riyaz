@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently student of BCA (**Bachelors of Computer Application**) 
 
-- 🌱 I’m currently learning Node JS , MongoDB & React Native development.
+- 🌱 I’m currently Native development.
 
 - 👯 I’m looking to collaborate on open source projects.
 
-- 💬 Ask me about  React.js development and any tech related stuff.
+- 💬 Ask me about  React.js & Node.js development and any tech related stuff.
 
 - 📫 How to reach me Raise a issue or see my social handles below.
 
