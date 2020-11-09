@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on open source projects.
 
-- 💬 Ask me about  React.js & Node.js development and any tech related stuff.
+- 💬 Ask me about  React Js & Node Js development and any tech related stuff.
 
 - 📫 How to reach me Raise a issue or see my social handles below.
 
