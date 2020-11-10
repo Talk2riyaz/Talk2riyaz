@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently Native development.
 
-- 👯 open source contributer
+- 👯 open source contributor
 
 - 💬 Ask me about  React Js & Node Js development and any tech related stuff.
 
