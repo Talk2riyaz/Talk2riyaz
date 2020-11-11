@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently student of BCA (**Bachelors of Computer Application**) 
 
-- 🌱 I’m currently Native development.
+- 🌱 I’m currently learning React Native development.
 
 - 👯 open source contributor
 
