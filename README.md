@@ -1,13 +1,5 @@
 ### Hi guys 👋 I'm Riyaz Qureshi
 
-Hi, I'm Saad! 👋
-🔥 19 Year's Old Software Developer grinding hard to make something cool
-✨ Favorite Tech: JavaScript, React, Typescript, Python ...
-📓 I’m currently learning DS and Algo... 😭
-✉️ saadpasta70@gmail.com
-🎨 Portfolio: https://saadpasta.github.io
-💼 LinkedIn: https://linkedin.com/in/saadpasta
-
 
 - 🔭 I’m currently student of BCA (**Bachelors of Computer Application**) 
 
@@ -22,6 +14,8 @@ Hi, I'm Saad! 👋
 - 😄 Pronouns: I, you, he, it, they, this.
 
 - ⚡ Fun fact: I spend almost 7-8 hours Learning everyday
+
+- 🎨 Portfolio: 
 
 
 
