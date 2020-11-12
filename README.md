@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact: I spend almost 7-8 hours Learning everyday
 
-- 🎨 Portfolio: 
+- 🎨 Portfolio: https://talk2riyaz.github.io/Riyaz/
 
 
 
