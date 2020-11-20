@@ -1,7 +1,7 @@
 ### Hi guys 👋 I'm Riyaz Qureshi
 
 
-- 🔭 I’m currently student of BCA (**Bachelors of Computer Application**) 
+- 🔭 At that movement I am doing BCA (**Bachelors of Computer Application**) 
 
 - 🌱 I’m currently learning React Native development.
 
