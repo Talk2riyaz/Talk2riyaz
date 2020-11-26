@@ -5,6 +5,8 @@
 
 - 💬 Ask me about  React Js & Node Js development and any tech related stuff.
 
+- 🌱 Learning more about technologies that go into building Full Stack Applications.
+
 - 📫 How to reach me Raise a issue or see my social handles below.
 
 - 😄 Pronouns: I, you, he, it, they, this.
