@@ -3,10 +3,6 @@
 
 - 🔭 At that movement I am doing BCA (**Bachelors of Computer Application**) 
 
-- 🌱 I’m currently learning React Native development.
-
-- 👯 open source contributor
-
 - 💬 Ask me about  React Js & Node Js development and any tech related stuff.
 
 - 📫 How to reach me Raise a issue or see my social handles below.
