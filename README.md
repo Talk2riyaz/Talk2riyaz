@@ -1,4 +1,4 @@
-### Hi guys 👋 I'm Riyaz Qureshi
+### <h3> Hi guys 👋 I'm Riyaz Qureshi <h3>
 
 <h2> A passionate full Stack(MERN) developer & Javascript Enthusiast! </h2>
 
