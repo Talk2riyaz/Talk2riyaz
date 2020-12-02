@@ -1,6 +1,6 @@
 ###  Hi guys 👋 I'm Riyaz Qureshi 
 
-<h2> A passionate full Stack(MERN) developer & Javascript Enthusiast! </h2>
+<h2> A passionate full Stack(MERN) developer & JavaScript Enthusiast! </h2>
 
 
 - 🔭 At that movement I am doing BCA (**Bachelors of Computer Application**) 
