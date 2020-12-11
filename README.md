@@ -3,7 +3,7 @@
 <h2> A passionate full Stack(MERN) developer & JavaScript Enthusiast! </h2>
 
 
-- 🔭 At that movement I am doing BCA (**Bachelors of Computer Application**) 
+- 🔭 At that movement I am doing BCA (**Bachelor of Computer Application**) 
 
 - 💬 Ask me about  React Js & Node Js development and any tech related stuff.
 
