@@ -1,6 +1,6 @@
 
 
-<h2> A passionate full Stack(MERN) developer & React Native developer </h2>
+<h2> A passionate full Stack(MERN) developer & JavaScript developer </h2>
 
 
 
