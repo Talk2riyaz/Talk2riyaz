@@ -2,7 +2,7 @@
 
 <h2> A passionate full Stack (MERN) developer & JavaScript developer </h2>
 
-
+- 💻 I'm a doing Internship at eminds.ai
 
 - 🔭 At that movement I am doing BCA (**Bachelor of Computer Application**) 
 
