@@ -1,6 +1,6 @@
 
 
-<h2> A passionate full Stack (MERN) developer & JavaScript developer </h2>
+<h2> A passionate full Stack (MERN) developer & JavaScript Enthusiast </h2>
 
 - 💻 I'm a doing internship as React.js developer at https://www.eminds.ai/
 
