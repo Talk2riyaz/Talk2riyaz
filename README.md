@@ -1,6 +1,6 @@
 
 
-<h2> Learning Full Stack (MERN) developer & React Native </h2>
+<h2> Learning Full Stack (MERN) developer & React Native developer</h2>
 
 - 💻 I'm a doing internship as JavaScript developer at https://www.eminds.ai/
 
