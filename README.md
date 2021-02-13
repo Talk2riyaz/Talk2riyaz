@@ -47,13 +47,4 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter&logoColor=blue)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql&logoColor=e84393)
 
-**Web/Full Stack projects**
-
-[![ReactEcommerce](https://img.shields.io/badge/-🧬&nbsp;&nbsp;My&nbsp;ReactReduxeCommerce-000000?style=flat)](https://github.com/shakilkhan12/Youtube-React-Redux-eCommerce)
-[![Vue & Vuex Amazon Clone](https://img.shields.io/badge/🦠&nbsp;&nbsp;VueAmazon-000000?style=flat)](https://github.com/shakilkhan12/Youtube-vuejs-amazon-clone)
-[![MERN Blog](https://img.shields.io/badge/-📰&nbsp;&nbsp;MERNBlog-000000?style=flat)](https://github.com/shakilkhan12/Youtube-Mern-Stack-Blog)
-[![React ColorPicker](https://img.shields.io/badge/-🃏&nbsp;&nbsp;React&nbsp;Color&nbsp;Picker-000000?style=flat)](https://github.com/shakilkhan12/ReactColorPicker)
-
-
-<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
 
