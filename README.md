@@ -26,7 +26,7 @@
 <a href="https://www.linkedin.com/in/riyaz-qureshi-5292931a7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/riyaz-qureshi-5292931a7/" height="30" width="40" /></a>
 </p>
 
-**Languages I have used**
+**Some of the technologies I have worked with**
 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
@@ -37,7 +37,7 @@
 ![Vue](https://img.shields.io/badge/-Vue-000000?style=flat&logo=Vue.js&logoColor=1dd1a1)
 
 
-**Some of the technologies I have worked with**
+
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
