@@ -26,6 +26,34 @@
 <a href="https://www.linkedin.com/in/riyaz-qureshi-5292931a7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/riyaz-qureshi-5292931a7/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+**Languages I have used**
+
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
+![ReactNative](https://img.shields.io/badge/-ReactNative-000000?style=flat&logo=React&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/-Vue-000000?style=flat&logo=Vue.js&logoColor=1dd1a1)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP)
+![LARAVEL](https://img.shields.io/badge/-LARAVEL-000000?style=flat&logo=LARAVEL&logoColor=ff9f43)
+![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
+
+**Some of the technologies I have worked with**
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter&logoColor=blue)
+![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql&logoColor=e84393)
+
+**Web/Full Stack projects**
+
+[![ReactEcommerce](https://img.shields.io/badge/-🧬&nbsp;&nbsp;My&nbsp;ReactReduxeCommerce-000000?style=flat)](https://github.com/shakilkhan12/Youtube-React-Redux-eCommerce)
+[![Vue & Vuex Amazon Clone](https://img.shields.io/badge/🦠&nbsp;&nbsp;VueAmazon-000000?style=flat)](https://github.com/shakilkhan12/Youtube-vuejs-amazon-clone)
+[![MERN Blog](https://img.shields.io/badge/-📰&nbsp;&nbsp;MERNBlog-000000?style=flat)](https://github.com/shakilkhan12/Youtube-Mern-Stack-Blog)
+[![React ColorPicker](https://img.shields.io/badge/-🃏&nbsp;&nbsp;React&nbsp;Color&nbsp;Picker-000000?style=flat)](https://github.com/shakilkhan12/ReactColorPicker)
+
+
+<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
 
