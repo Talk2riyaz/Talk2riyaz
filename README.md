@@ -14,7 +14,7 @@
 
 - 😄 Pronouns: I, you, he, it, they, this.
 
-- ⚡ Fun fact: I spend almost 7-8 hours Learning everyday
+- ⚡ Fun fact: I spend almost 8-10 hours Learning everyday
 
 - 🎨 Portfolio: https://talk2riyaz.github.io/Riyaz/
 
