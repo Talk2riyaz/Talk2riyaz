@@ -6,7 +6,7 @@
 
 - 🔭 At that movement I am doing BCA (**Bachelor of Computer Application**) 
 
-- 💬 Ask me about  React Js & Node Js development and any tech related stuff.
+- 💬 Ask me about  React Js , Node Js & React Native development and any tech related stuff.
 
 - 🌱 Learning more about technologies that go into building Full Stack Applications.
 
