@@ -2,7 +2,7 @@
 
 <h2> Learning Full Stack (MERN) & React Native development</h2>
 
-- 💻 I'm a doing internship as JavaScript developer at https://www.eminds.ai/
+- 💻 I'm a doing internship as JavaScript developer at Enterprise Minds.ai
 
 - 🔭 At that movement I am doing BCA (**Bachelor of Computer Application**) 
 
