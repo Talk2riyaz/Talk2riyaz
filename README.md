@@ -12,7 +12,7 @@
 
 - 📫 How to reach me Raise a issue or see my social handles below.
 
-- 😄 Pronouns: I, you, he, it, they, this.
+- 😄 Pronouns:  You And he
 
 - ⚡ Fun fact: I spend almost 8-10 hours Learning everyday
 
