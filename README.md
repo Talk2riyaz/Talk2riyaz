@@ -8,6 +8,8 @@
 
 - 💬 Ask me about  React Js , Node Js & React Native development and any tech related stuff.
 
+- ⚡ explore Machine learning and Artificial intelligence
+
 - 🌱 Learning more about technologies that go into building Full Stack Applications.
 
 - 📫 How to reach me Raise a issue or see my social handles below.
