@@ -16,7 +16,7 @@
 
 - 😄 Pronouns: Riyaz , You And he
 
-- ⚡ Fun fact: I spend almost 8-10 hours Learning everyday
+- ⚡ Fun fact: I spend almost 10-12 hours Learning everyday
 
 - 🎨 Portfolio: https://talk2riyaz.github.io/Riyaz/
 
