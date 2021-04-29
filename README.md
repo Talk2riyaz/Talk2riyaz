@@ -1,5 +1,5 @@
 
-
+# Hi! I'm Riyaz Qureshi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
 <h2> Learning Full Stack (MERN) & React Native development</h2>
 
 - 💻 I'm a doing internship as JavaScript developer at Enterprise Minds.ai
