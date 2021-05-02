@@ -14,7 +14,7 @@
 
 - 📫 How to reach me Raise a issue or see my social handles below.
 
-- 😄 Pronouns: Riyaz , You And he
+- 😄 Pronouns: Riyaz and You
 
 - ⚡ Fun fact: I spend almost 10-12 hours Learning everyday
 
