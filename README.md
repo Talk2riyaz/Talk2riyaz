@@ -1,6 +1,6 @@
 
 # Hi! I'm Riyaz Qureshi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
-<h2> A passionate Full Stack (MERN) & React Native development</h2>
+<h2> A passionate Full Stack (MERN) & React Native developer</h2>
 
 - 💻 I'm a doing internship as JavaScript developer at Enterprise Minds.ai
 
