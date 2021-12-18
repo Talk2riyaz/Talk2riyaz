@@ -2,7 +2,7 @@
 # Hi! I'm Riyaz Qureshi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
 <h2> A passionate Full Stack (MERN) & React Native developer</h2>
 
-- 💻 JavaScript developer at Enterprise Minds.ai
+- 💻 Software Developer at Rapid innovation 
 
 - 🔭 At that movement I am doing BCA (**Bachelor of Computer Application**) 
 
