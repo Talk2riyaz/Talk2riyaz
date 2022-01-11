@@ -8,7 +8,7 @@
 
 - 💬 Ask me about  React Js , Node Js & React Native development and any tech related stuff.
 
-- ⚡ exploring blockchain and web 3.0 Technology
+- ⚡ Exploring Blockchain and Web 3.0 Technology
 
 - 🌱 Learning more about technologies that go into building Full Stack Applications.
 
