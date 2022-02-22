@@ -35,7 +35,7 @@
 ![Blockchain](https://img.shields.io/badge/-Blockchain-000000?style=flat&logo=Blockchain)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-https://img.shields.io/badge/Solidity-%3A-green
+<p>https://img.shields.io/badge/Solidity-%3A-green</p>
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
