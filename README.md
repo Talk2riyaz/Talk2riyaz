@@ -42,7 +42,6 @@
 ![ReactNative](https://img.shields.io/badge/-ReactNative-000000?style=flat&logo=React&logoColor=61DAFB)
 <img alt="Solidity" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" /> 
 ![Vue](https://img.shields.io/badge/-Vue-000000?style=flat&logo=Vue.js&logoColor=1dd1a1)
-![Solidity](https://img.shields.io/badge/-Vue-000000?style=flat&logo=Vue.js&logoColor=1dd1a1)
 
 
 
