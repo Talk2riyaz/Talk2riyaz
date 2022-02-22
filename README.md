@@ -32,7 +32,7 @@
 
 **Some of the technologies I have worked with**
 
-<!-- <img alt="Solidity" src="https://img.shields.io/badge/-Blockchain-764ABC?style=flat-square&logo=redux&logoColor=white" />  -->
+![HTML5](https://img.shields.io/badge/-Blockchain-000000?style=flat&logo=HTML5)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
