@@ -20,7 +20,7 @@
 
 - 🎨 Portfolio: https://talk2riyaz.github.io/Riyaz/
 
-- 💬 Linkedin: https://www.linkedin.com/in/riyaz-qureshi-5292931a7/
+- 💬 Linkedin: https://www.linkedin.com/in/riyaz-shaikh-5292931a7
 
 
 
