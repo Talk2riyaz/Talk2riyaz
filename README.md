@@ -4,7 +4,7 @@
 
 - 💻 Software Developer at Rapid innovation 
 
-- 🔭 At that moment I am doing BCA (**Bachelor of Computer Application**) 
+- 🔭 I have done my graduation (**Bachelor of Computer Application**) 
 
 - 💬 Ask me about  React Js , Node Js & React Native development and any tech related stuff.
 
