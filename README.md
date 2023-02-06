@@ -4,7 +4,7 @@
 # Hi! I'm Riyaz Shaikh <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
 <h2> A passionate Full Stack (MERN) & React Native developer</h2>
 
-- 💻 Software Developer at Rapid innovation 
+- 💻 Software Developer at Enterprise Minds
 
 - 🔭 I have done my graduation (**Bachelor of Computer Application**) 
 
